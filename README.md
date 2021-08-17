@@ -1,0 +1,2 @@
+# 2048
+ This game is a single player interesting game. It is played on a 4×4 grid, with numbers that slide smoothly when a player moves them using the four arrow keys.  This 2048 Game is based on a concept of colliding the same two numbers to create a new number with the total sum of the two numbers. Every turn, a new number will randomly appear in an empty spot on the board with a value of either 2 or 4.
